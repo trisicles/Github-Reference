@@ -1,0 +1,19 @@
+h1{
+color: cyan;
+font-size: 42px;
+font-family: "Microsoft Sans Serif" "Comic Sans";
+}
+h2{
+color: darkcyan;
+font-size: 32px;
+font-family: "Microsoft Sans Serif" "Comic Sans";
+}
+p{
+font-family: "Adobe Fan Heiti Std" "Microsoft Sans Serif";
+}
+img{
+  width: 500px;   
+}
+body {
+ background-color: lightblue;
+}
